@@ -1,2 +1,2 @@
-yeai.xyz
-aigan1.xyz
+# yeai.xyz
+# aigan1.xyz
